@@ -4,7 +4,8 @@ tracks.csv
 artists.csv
 *.csv.gz
 *.joblib
-data/
+data/*
+!data/README.md
 # Local environment and credentials
 .venv/
 venv/
@@ -15,3 +16,6 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .DS_Store
+
+# Fresh command-line experiment outputs
+runs/
