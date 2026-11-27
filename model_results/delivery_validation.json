@@ -1,0 +1,16 @@
+{
+  "version_grouped": {
+    "test_ids_and_targets_verified": true,
+    "saved_metrics_reconciled": true,
+    "reloaded_max_score_error": 3.3306690738754696e-16,
+    "tempo_median_from_training_only": 117.371,
+    "model_input_columns_verified": true
+  },
+  "artist_disjoint": {
+    "test_ids_and_targets_verified": true,
+    "saved_metrics_reconciled": true,
+    "reloaded_max_score_error": 2.220446049250313e-16,
+    "tempo_median_from_training_only": 117.952,
+    "model_input_columns_verified": true
+  }
+}

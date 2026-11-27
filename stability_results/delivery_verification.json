@@ -1,0 +1,77 @@
+{
+  "additional_experiments": [
+    {
+      "seed": 20261124,
+      "experiment": "version_grouped",
+      "test_rows": 118185,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": "permitted"
+    },
+    {
+      "seed": 20261124,
+      "experiment": "artist_disjoint",
+      "test_rows": 97304,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": 0
+    },
+    {
+      "seed": 20261125,
+      "experiment": "version_grouped",
+      "test_rows": 117033,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": "permitted"
+    },
+    {
+      "seed": 20261125,
+      "experiment": "artist_disjoint",
+      "test_rows": 97729,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": 0
+    },
+    {
+      "seed": 20261126,
+      "experiment": "version_grouped",
+      "test_rows": 117456,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": "permitted"
+    },
+    {
+      "seed": 20261126,
+      "experiment": "artist_disjoint",
+      "test_rows": 96781,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": 0
+    },
+    {
+      "seed": 20261127,
+      "experiment": "version_grouped",
+      "test_rows": 117118,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": "permitted"
+    },
+    {
+      "seed": 20261127,
+      "experiment": "artist_disjoint",
+      "test_rows": 100957,
+      "test_predictions_and_targets_verified": true,
+      "metrics_recomputed": true,
+      "version_overlap": 0,
+      "artist_overlap": 0
+    }
+  ],
+  "summary_statistics_verified": true
+}

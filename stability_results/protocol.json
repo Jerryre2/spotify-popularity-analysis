@@ -1,0 +1,27 @@
+{
+  "source_sha256": "8a08c199bd93438783e915470ec3ea1142c1267f2da48b7d1315d2b9f5d39cf9",
+  "partition_seeds": [
+    20261123,
+    20261124,
+    20261125,
+    20261126,
+    20261127
+  ],
+  "model_seed": 20261123,
+  "target_threshold": 60,
+  "new_hyperparameter_search": false,
+  "scope": "conditional repeated holdout on one catalogue; not independent external validation",
+  "summary": "equal-weight mean, sample standard deviation, minimum and maximum across five partitions",
+  "original_model_configurations": {
+    "version_grouped": {
+      "selected_forest": "forest_depth12",
+      "selected_model": "forest_depth12",
+      "selected_threshold": 0.6599755796584343
+    },
+    "artist_disjoint": {
+      "selected_forest": "forest_depth20",
+      "selected_model": "forest_depth20",
+      "selected_threshold": 0.5343163121710464
+    }
+  }
+}

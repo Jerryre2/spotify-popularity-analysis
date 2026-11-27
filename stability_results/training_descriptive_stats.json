@@ -1,0 +1,32 @@
+[
+  {
+    "feature":"loudness",
+    "ordinary_median":-9.431,
+    "popular_median":-6.383
+  },
+  {
+    "feature":"acousticness",
+    "ordinary_median":0.441,
+    "popular_median":0.174
+  },
+  {
+    "feature":"energy",
+    "ordinary_median":0.541,
+    "popular_median":0.666
+  },
+  {
+    "feature":"danceability",
+    "ordinary_median":0.574,
+    "popular_median":0.646
+  },
+  {
+    "feature":"valence",
+    "ordinary_median":0.567,
+    "popular_median":0.531
+  },
+  {
+    "feature":"tempo",
+    "ordinary_median":117.11,
+    "popular_median":120.053
+  }
+]

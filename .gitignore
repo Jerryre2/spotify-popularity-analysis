@@ -1,0 +1,17 @@
+# Source data and generated large artifacts
+archive.zip
+tracks.csv
+artists.csv
+*.csv.gz
+*.joblib
+data/
+# Local environment and credentials
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store

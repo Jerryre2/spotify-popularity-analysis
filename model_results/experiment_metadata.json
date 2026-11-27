@@ -1,0 +1,45 @@
+{
+  "dataset_sha256": "8a08c199bd93438783e915470ec3ea1142c1267f2da48b7d1315d2b9f5d39cf9",
+  "seed": 20261123,
+  "target_threshold": 60,
+  "source_rows": 586672,
+  "versions": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.6",
+    "joblib": "1.5.2"
+  },
+  "features": [
+    "danceability",
+    "energy",
+    "tempo",
+    "loudness",
+    "valence",
+    "acousticness",
+    "instrumentalness",
+    "speechiness",
+    "liveness",
+    "duration_ms",
+    "key",
+    "mode",
+    "time_signature"
+  ],
+  "duration_input_unit": "milliseconds, original source values",
+  "decisions": {
+    "version_grouped": {
+      "selected_forest": "forest_depth12",
+      "selected_model": "forest_depth12",
+      "selected_threshold": 0.6599755796584343
+    },
+    "artist_disjoint": {
+      "selected_forest": "forest_depth20",
+      "selected_model": "forest_depth20",
+      "selected_threshold": 0.5343163121710464
+    }
+  },
+  "primary_metric": "average_precision_score, not trapezoidal PR-AUC",
+  "probability_calibrated": false,
+  "test_used_for_tuning": false
+}

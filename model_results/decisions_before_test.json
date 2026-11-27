@@ -1,0 +1,12 @@
+{
+  "version_grouped": {
+    "selected_forest": "forest_depth12",
+    "selected_model": "forest_depth12",
+    "selected_threshold": 0.6599755796584343
+  },
+  "artist_disjoint": {
+    "selected_forest": "forest_depth20",
+    "selected_model": "forest_depth20",
+    "selected_threshold": 0.5343163121710464
+  }
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "seed": 20261124,
+    "experiment": "version_grouped",
+    "model": "logistic_regression",
+    "threshold": 0.6980468256956015,
+    "validation_ap": 0.1467237032226445,
+    "validation_f1": 0.2281445138269402
+  },
+  {
+    "seed": 20261124,
+    "experiment": "version_grouped",
+    "model": "random_forest",
+    "threshold": 0.6668994113417674,
+    "validation_ap": 0.16854741468762166,
+    "validation_f1": 0.25194479297365124
+  },
+  {
+    "seed": 20261124,
+    "experiment": "artist_disjoint",
+    "model": "logistic_regression",
+    "threshold": 0.6736654648074306,
+    "validation_ap": 0.11507476190931498,
+    "validation_f1": 0.19086929330831767
+  },
+  {
+    "seed": 20261124,
+    "experiment": "artist_disjoint",
+    "model": "random_forest",
+    "threshold": 0.47565749947033475,
+    "validation_ap": 0.1402949035103835,
+    "validation_f1": 0.22249520153550864
+  },
+  {
+    "seed": 20261125,
+    "experiment": "version_grouped",
+    "model": "logistic_regression",
+    "threshold": 0.6861855603590938,
+    "validation_ap": 0.14051290478732903,
+    "validation_f1": 0.22291464473616998
+  },
+  {
+    "seed": 20261125,
+    "experiment": "version_grouped",
+    "model": "random_forest",
+    "threshold": 0.6598239427622964,
+    "validation_ap": 0.1672252226671159,
+    "validation_f1": 0.2531676119222879
+  },
+  {
+    "seed": 20261125,
+    "experiment": "artist_disjoint",
+    "model": "logistic_regression",
+    "threshold": 0.6673614269791909,
+    "validation_ap": 0.13252829441918954,
+    "validation_f1": 0.21479855218655433
+  },
+  {
+    "seed": 20261125,
+    "experiment": "artist_disjoint",
+    "model": "random_forest",
+    "threshold": 0.4559129753169189,
+    "validation_ap": 0.1536524936807444,
+    "validation_f1": 0.24245361395735252
+  },
+  {
+    "seed": 20261126,
+    "experiment": "version_grouped",
+    "model": "logistic_regression",
+    "threshold": 0.6837402633191177,
+    "validation_ap": 0.14752536018100476,
+    "validation_f1": 0.2280379401102448
+  },
+  {
+    "seed": 20261126,
+    "experiment": "version_grouped",
+    "model": "random_forest",
+    "threshold": 0.6414716666480498,
+    "validation_ap": 0.17428124678643395,
+    "validation_f1": 0.25841126518327423
+  },
+  {
+    "seed": 20261126,
+    "experiment": "artist_disjoint",
+    "model": "logistic_regression",
+    "threshold": 0.6820933947591435,
+    "validation_ap": 0.12369363960724114,
+    "validation_f1": 0.19885183828020028
+  },
+  {
+    "seed": 20261126,
+    "experiment": "artist_disjoint",
+    "model": "random_forest",
+    "threshold": 0.44740372283595836,
+    "validation_ap": 0.13946777165532237,
+    "validation_f1": 0.21779698165195066
+  },
+  {
+    "seed": 20261127,
+    "experiment": "version_grouped",
+    "model": "logistic_regression",
+    "threshold": 0.7069690956245154,
+    "validation_ap": 0.1505079913519255,
+    "validation_f1": 0.2340413284982444
+  },
+  {
+    "seed": 20261127,
+    "experiment": "version_grouped",
+    "model": "random_forest",
+    "threshold": 0.6705375757415096,
+    "validation_ap": 0.17744560581244273,
+    "validation_f1": 0.2609243962418816
+  },
+  {
+    "seed": 20261127,
+    "experiment": "artist_disjoint",
+    "model": "logistic_regression",
+    "threshold": 0.6767953757922254,
+    "validation_ap": 0.12322966368939815,
+    "validation_f1": 0.20140632847815168
+  },
+  {
+    "seed": 20261127,
+    "experiment": "artist_disjoint",
+    "model": "random_forest",
+    "threshold": 0.5255575130623614,
+    "validation_ap": 0.14062914443310134,
+    "validation_f1": 0.21861915367483298
+  }
+]
